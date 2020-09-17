@@ -1,0 +1,25 @@
+#canvas {
+    height: 300px;
+    width: 300px;
+    background-color: ivory;
+    margin: 0 auto;
+    box-shadow: 10px 10px 0px black;
+}
+#toprow {
+    height: 75%;
+    width: 100%;
+}
+#bigbox {
+    width: 75%;
+    height: 100%;
+}
+.red {
+    background-color: red;
+}
+.right{
+    float: right;
+}
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
